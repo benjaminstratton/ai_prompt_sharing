@@ -1,5 +1,7 @@
 # Promptopia
 
+![ai_prompt_sharing](https://ibb.co/XsfjCk9)
+
 ## Description
 
 Welcome to the first-ever social media application for sharing creative and inspiring AI prompts!
