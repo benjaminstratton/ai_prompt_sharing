@@ -1,6 +1,6 @@
 # Promptopia
 
-![ai_prompt_sharing](https://i.ibb.co/XsfjCk9/Screenshot-2023-06-28-at-6-50-59-PM.png)
+![ai_prompt_sharing](https://github.com/benjaminstratton/ai_prompt_sharing/blob/main/public/assets/images/thumbnail.png)
 
 ## Description
 
