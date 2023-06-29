@@ -5,8 +5,8 @@
 ## Description
 
 Welcome to the first-ever social media application for sharing creative and inspiring AI prompts!
-* Created with Next.js and Tailwind.
-* Includes server-side and client-side rendering for SEO optimization, Google authentication, a search feature, full CRUD, and more!
+* Created with Next.js and MongoDB.
+* Includes performance rendering for SEO optimization, Google authentication, a search field, full CRUD, and more!
 
 Check out the published project [here](https://ai-prompt-sharing-five.vercel.app/).
 
